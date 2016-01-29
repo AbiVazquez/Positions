@@ -9,25 +9,24 @@ div {
 
 .rojo{
 	background: red;
-	position:absolute;
+	position:static;
 	left: 0px;
 	top: 0px;
 }
 .azul{
 	background: blue;
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	left: 200px;
 }
 .verde{
 	background: green;
-	position: absolute;
+	position: static;
 	left: 0px;
 	bottom: 0px;
 }
 .amarillo {
 	background: yellow;
-	position: absolute;
+	position: static;
 	right: 0px;
 	bottom: 0px;
 }
