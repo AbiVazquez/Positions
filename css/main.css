@@ -9,16 +9,16 @@ div {
 
 .rojo{
 	background: red;
-	position: relative;
+	position: static;
 	left: 50px;
 }
 .azul{
 	background: blue;
-	position: static;
-	left: 50px;
+	position: relative;
+	left: 200px;
 }
 .verde{
 	background: green;
-	position: relative;
+	position: static;
 	left: 50px;
 }
