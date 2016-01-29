@@ -15,7 +15,7 @@ div {
 }
 .azul{
 	background: blue;
-	position: absolute;
+	position: relative;
 	left: 200px;
 }
 .verde{
